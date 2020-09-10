@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACI,YACJ,CAEA,OACI,UAAY,CACZ,cAEJ,CAEA,YAHI,iBAKJ","file":"main.ceccd5bf.chunk.css","sourcesContent":[".App {\n    height: 100vh;\n}\n\n.title {\n    color: black;\n    font-size: 1rem;\n    text-align: center;\n}\n\n.Btn {\n    text-align: center;\n}"]}
