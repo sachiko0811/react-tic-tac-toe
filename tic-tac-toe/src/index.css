@@ -11,3 +11,39 @@
 .Btn {
     text-align: center;
 }
+
+table {
+    padding: 20px;
+    margin: 0 auto;
+    /* border: 1px solid black; */
+}
+
+td {
+    width: 36px;
+    height: 36px;
+    border: 1px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+.l-flex {
+    display: flex;
+}
+
+.marubatsu {
+    justify-content: center;
+}
+
+.maru {
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.batsu {
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.active {
+    border-bottom: 2px solid black;
+}
